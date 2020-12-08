@@ -1,0 +1,39 @@
+   1 history
+   2 git clone https://github.com/NavneetKaur0111/sd130-assignment-2-repo-10.git
+   3 ls
+   4 cd  sd130-assignment-2-repo-10
+   5 ls -la
+   6 history
+   7 npm i
+   8 gulp
+   9 history
+  10 git switch -c issue-2
+  11 history
+  12 npm i --save-dev gulp-uglify-es
+  13 gulp
+  14 history
+  15 git status
+  16 git add .
+  17 git status
+  18 git restore --staged src/scripts/main.js
+  19 git status
+  20 git commit -m "minify js file"
+  21 git status
+  22 git add .
+  23 git status
+  24 git commit -m "when button is clicked add names of classmates to ul"
+  25 history
+  26 git status
+  27 git switch main
+  28 git merge issue-2
+  29 git log --oneline
+  30 git push
+  31 git pull
+  32 gulp
+  33 git status
+  34 git add .
+  35 git commit -m "add comment for cleantsk"
+  36 git statsu
+  37 git status
+  38 history
+  39 git push
